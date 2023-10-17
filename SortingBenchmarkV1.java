@@ -9,7 +9,7 @@ import java.util.Random;
  */
 public class SortingBenchmarkV1
 {
-    // Run all three sort methods against three sizes of arrays with three different initial conditions
+    // run all three sort methods against three sizes of arrays with three different initial conditions
     public static void runBenchmark() {
         int[] sizes = {50000, 100000, 200000};
 
